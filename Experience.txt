@@ -1,0 +1,9 @@
+/* Experience.txt for COMP-102-112 - 2022T1, LabExercise 0
+ * Name:
+ * Username:
+ * ID:
+ */
+
+Please tell us briefly about what programming experience you have had,
+if any.  It is fine to say "none" if you haven't had any.
+

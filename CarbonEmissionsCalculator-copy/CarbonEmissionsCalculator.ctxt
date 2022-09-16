@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=CarbonEmissionsCalculator
+comment0.text=Program\ for\ calculating\ carbon\ emissions
+comment1.params=
+comment1.target=void\ calculateEmissions()
+comment1.text=\ \n\ Calculates\ and\ print\ carbon\ emissions\n
+comment2.params=
+comment2.target=void\ calculateAverages()
+comment2.text=\n\ calculate\ and\ print\ carbon\ emissions\ to\ NZ\ average\n
+comment3.params=
+comment3.target=void\ setupGUI()
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5
